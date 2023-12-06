@@ -9,3 +9,4 @@ All problems can be found [here](https://adventofcode.com/2023).
 ## Progress
 | Day | Problem | Stars |
 | --- | --- | --- |
+| 01 | [Trebuchet?!](https://adventofcode.com/2023/day/1) | ⭐ ⭐ |
