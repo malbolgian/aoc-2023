@@ -11,3 +11,4 @@ All problems can be found [here](https://adventofcode.com/2023).
 | --- | --- | --- |
 | 01 | [Trebuchet?!](https://adventofcode.com/2023/day/1) | ⭐ ⭐ |
 | 02 | [Cube Conundrum](https://adventofcode.com/2023/day/2) | ⭐ ⭐ |
+| 03 | [Gear Ratios](https://adventofcode.com/2023/day/3) | ⭐ ⭐ |
