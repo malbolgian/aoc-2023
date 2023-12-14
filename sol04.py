@@ -5,10 +5,10 @@ class Card:
         self.winning = winning
         self.nums = nums
 
-    def num_matches(self):
+    def num_matches(self) -> int:
         return sum(num in self.winning for num in self.nums)
 
-    def num_points(self):
+    def num_points(self) -> int:
         matches = self.num_matches()
         if matches > 0:
             return 2 ** (matches - 1)
