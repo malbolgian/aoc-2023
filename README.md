@@ -13,3 +13,4 @@ All problems can be found [here](https://adventofcode.com/2023).
 | 02 | [Cube Conundrum](https://adventofcode.com/2023/day/2) | ⭐ ⭐ |
 | 03 | [Gear Ratios](https://adventofcode.com/2023/day/3) | ⭐ ⭐ |
 | 04 | [Scratchcards](https://adventofcode.com/2023/day/4) | ⭐ ⭐ |
+| 05 | [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | ⭐ ⭐ |
