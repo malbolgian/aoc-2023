@@ -18,3 +18,4 @@ All problems can be found [here](https://adventofcode.com/2023).
 | 07 | [Camel Cards](https://adventofcode.com/2023/day/7) | ⭐ ⭐ |
 | 08 | [Haunted Wasteland](https://adventofcode.com/2023/day/8) | ⭐ ⭐ |
 | 09 | [Mirage Maintenance](https://adventofcode.com/2023/day/9) | ⭐ ⭐ |
+| 10 | [Pipe Maze](https://adventofcode.com/2023/day/10) | ⭐ ⭐ |
