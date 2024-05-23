@@ -20,3 +20,4 @@ All problems can be found [here](https://adventofcode.com/2023).
 | 09 | [Mirage Maintenance](https://adventofcode.com/2023/day/9) | ⭐ ⭐ |
 | 10 | [Pipe Maze](https://adventofcode.com/2023/day/10) | ⭐ ⭐ |
 | 11 | [Cosmic Expansion](https://adventofcode.com/2023/day/11) | ⭐ ⭐ |
+| 12 | [Hot Springs](https://adventofcode.com/2023/day/12) | ⭐ ⭐ |
